@@ -1,0 +1,2 @@
+# studyingOperationsResearch
+ オペレーションズリサーチの勉強
